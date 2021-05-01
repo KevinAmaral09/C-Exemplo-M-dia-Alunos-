@@ -1,0 +1,25 @@
+Algoritmo Idade 
+
+Inicio
+
+var = idade
+var = meses
+var = dias
+var = horas
+var = minutos
+
+Escreva : "Qual a sua idade?"
+
+Leia (Qual a sua idade?) e converta em:
+
+meses = idade*meses (12)
+dias = idade*dias(365)
+horas= idade*horas (24h)
+minutos= idade*minutos (60 seg)
+
+Escreva = idade em (meses)
+	idade em (dias)
+	idade em (horas)
+	idade em (minutos)
+
+

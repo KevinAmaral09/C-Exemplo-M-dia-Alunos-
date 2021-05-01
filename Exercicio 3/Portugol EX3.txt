@@ -1,0 +1,27 @@
+Algoritmo aumento de 30%
+
+Inicio 
+
+var = salario
+var = salarioReajustado
+
+Escreval = (Qual seu nome?)
+
+Escreval = (Seja bem vindo X !!!)
+
+Escreval = (Qual o seu salario?)
+
+
+Valor do salario reajustado = salario + 30% aos funcionários cujo salário é inferior a 500 reais
+
+
+Se o salário for inferior a 500 reais,
+
+
+Escreval = (O valor do seu salário reajustado será: )
+
+
+E se for maior, no caso ao inverso de :
+
+
+Escreval = (Você não tem direito ao aumento, consulte as informaçoes no regulamento !)

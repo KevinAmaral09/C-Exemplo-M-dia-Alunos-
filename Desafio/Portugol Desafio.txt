@@ -1,0 +1,48 @@
+Algoritmo que receba a idade de um nadador e imprima a sua categoria
+
+Inicio 
+
+var = idade 
+
+Escreval = (Qual seu nome?)
+
+Escreval = (Seja bem vindo X !!!)
+
+Escreval = ( Quantos anos você tem ?)
+
+
+Se sua idade for menor que 5,
+
+Escreval = (Que pena, você ainda não pode participar !)
+
+
+Se sua idade for menor que 8,
+
+Escreval = (Você vai participar da Categoria: Infantil A )
+
+
+Se sua idade for menor que 11,
+
+Escreval = (Você vai participar da Categoria: Infantil B )
+
+
+Se sua idade for menor que 14,
+
+Escreval = (Você vai participar da Categoria: Juvenil A )
+
+
+Se sua idade for menor que 18,
+
+Escreval = (Você vai participar da Categoria: Juvenil B )
+
+
+Se sua idade for maior ou igual que 18,
+
+Escreval = (Você vai participar da Categoria: Sênior )
+
+
+
+
+
+
+
